@@ -2,7 +2,7 @@
 
 ### Контакты 
 
-[![Telegram](https://img.shields.io/badge/Telegram-orange?logo=telegram&logoColor=white)](https://t.me/berg1005) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:chigar2010@yandex.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/berg1005) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:chigar2010@yandex.ru)
 
 
 - В 2024 закончил обучение на Python-разработчика в Яндекс Практикуме
@@ -28,10 +28,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
+-->
 ---
 
-### &#127875; Интересные проекты:
+### &#129302; Интересные проекты:
+<!--
 - [Киноточка - платформа рекомендаций фильмов](https://github.com/timuritodev/kinotochka-frontend)<img src="https://img.shields.io/badge/ReactJS-yellow?logo=React&logoColor=white" alt="ReactJS" title="ReactJS"/> <img src="https://img.shields.io/badge/CSS3-yellow?logo=css3&logoColor=white" alt="CSS3" title="CSS3"/> <img src="https://img.shields.io/badge/HTML5-yellow?logo=html5&logoColor=white" alt="HTML5" title="HTML5"/> <img src="https://img.shields.io/badge/Redux-yellow?logo=html5&logoColor=white" alt="Redux" title="Redux"/> <img src="https://img.shields.io/badge/Typescript-yellow?logo=html5&logoColor=white" alt="Typescript" title="Typescript"/>
 - [Интернет магазин (back часть)"Nemernyi-metall"](https://github.com/timuritodev/nemerniy-metall-api)<img src="https://img.shields.io/badge/ExpressJS-yellow?logo=express&logoColor=white" alt="ExpressJS" title="ExpressJS"/> <img src="https://img.shields.io/badge/MongoDB-yellow?logo=MongoDB&logoColor=white" alt="MongoDB" title="MongoDB"/>
 - [Интернет магазин (front часть)"Nemernyi-metall"](https://github.com/timuritodev/nemerniy-metall)<img src="https://img.shields.io/badge/ReactJS-yellow?logo=React&logoColor=white" alt="ReactJS" title="ReactJS"/> <img src="https://img.shields.io/badge/Typescript-yellow?logo=html5&logoColor=white" alt="Typescript" title="Typescript"/> <img src="https://img.shields.io/badge/CSS3-yellow?logo=css3&logoColor=white" alt="CSS3" title="CSS3"/> <img src="https://img.shields.io/badge/HTML5-yellow?logo=html5&logoColor=white" alt="HTML5" title="HTML5"/> <img src="https://img.shields.io/badge/Redux-yellow?logo=html5&logoColor=white" alt="Redux" title="Redux"/>
@@ -42,7 +43,7 @@
 -->
 ---
 
-### &#129299; Моя статистика:
+### &#128175; Моя статистика:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Berg1005/badges/large)](https://www.codewars.com/users/Berg1005)
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=berg96&hide=contribs&show_icons=true">
