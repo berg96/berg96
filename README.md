@@ -12,6 +12,7 @@
 ---
 
 ### &#128736; Мой стек:
+TODO
 <!--
 ![Django](https://img.shields.io/badge/django-%2320232a.svg?style=for-the-badge&logo=django&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -32,6 +33,7 @@
 ---
 
 ### &#129302; Интересные проекты:
+TODO
 <!--
 - [Киноточка - платформа рекомендаций фильмов](https://github.com/timuritodev/kinotochka-frontend)<img src="https://img.shields.io/badge/ReactJS-yellow?logo=React&logoColor=white" alt="ReactJS" title="ReactJS"/> <img src="https://img.shields.io/badge/CSS3-yellow?logo=css3&logoColor=white" alt="CSS3" title="CSS3"/> <img src="https://img.shields.io/badge/HTML5-yellow?logo=html5&logoColor=white" alt="HTML5" title="HTML5"/> <img src="https://img.shields.io/badge/Redux-yellow?logo=html5&logoColor=white" alt="Redux" title="Redux"/> <img src="https://img.shields.io/badge/Typescript-yellow?logo=html5&logoColor=white" alt="Typescript" title="Typescript"/>
 - [Интернет магазин (back часть)"Nemernyi-metall"](https://github.com/timuritodev/nemerniy-metall-api)<img src="https://img.shields.io/badge/ExpressJS-yellow?logo=express&logoColor=white" alt="ExpressJS" title="ExpressJS"/> <img src="https://img.shields.io/badge/MongoDB-yellow?logo=MongoDB&logoColor=white" alt="MongoDB" title="MongoDB"/>
