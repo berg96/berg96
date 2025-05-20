@@ -5,7 +5,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white)](https://t.me/berg1005) [![Mail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:chigar2010@yandex.ru)
 
 
-- В 2023 закончил обучение на Python-разработчика в Яндекс Практикуме
+- В 2022 закончил обучение на Python-разработчика в Яндекс Практикуме
 - Работаю в стартапе musiChat
 - Продолжаю совершенствовать себя в новых технологиях
 
